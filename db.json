@@ -1,11 +1,13 @@
 {
-  "posts": [
-    {
+  "EIApplication": 
+    { 
+      "data" : {
        "id":1,
-       "ApplicationID": "185764656",
+       "DetermineCombinationOfBenefitsResult": "Revised",
        "SessionId":"12345"   
     }
-  ],
+  }
+  ,
   "profile": {
     "name": "typicode"
   }
